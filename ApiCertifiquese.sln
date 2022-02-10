@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certifiquese.Domain", "..\C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certifiquese.Service", "..\Certifiquese.Service\Certifiquese.Service.csproj", "{889DB5DA-3195-47A6-B86D-CBE6FA3FC048}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certifiquese.Repository", "..\Certifiquese.Repository\Certifiquese.Repository.csproj", "{FDD7D61D-D1FA-44A3-B601-B2973BA59566}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{889DB5DA-3195-47A6-B86D-CBE6FA3FC048}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{889DB5DA-3195-47A6-B86D-CBE6FA3FC048}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{889DB5DA-3195-47A6-B86D-CBE6FA3FC048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD7D61D-D1FA-44A3-B601-B2973BA59566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD7D61D-D1FA-44A3-B601-B2973BA59566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD7D61D-D1FA-44A3-B601-B2973BA59566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD7D61D-D1FA-44A3-B601-B2973BA59566}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
