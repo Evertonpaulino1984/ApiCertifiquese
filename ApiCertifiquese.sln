@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCertifiquese", "ApiCerti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certifiquese.Domain", "..\Certifiquese.Domain\Certifiquese.Domain.csproj", "{0ED7A766-95D4-43BD-AF80-54C7CB4335E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certifiquese.Service", "..\Certifiquese.Service\Certifiquese.Service.csproj", "{889DB5DA-3195-47A6-B86D-CBE6FA3FC048}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0ED7A766-95D4-43BD-AF80-54C7CB4335E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ED7A766-95D4-43BD-AF80-54C7CB4335E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ED7A766-95D4-43BD-AF80-54C7CB4335E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889DB5DA-3195-47A6-B86D-CBE6FA3FC048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889DB5DA-3195-47A6-B86D-CBE6FA3FC048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889DB5DA-3195-47A6-B86D-CBE6FA3FC048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889DB5DA-3195-47A6-B86D-CBE6FA3FC048}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
